@@ -10,3 +10,5 @@ Exact commit time please refer to commit time
 2024/9/25 find problem in merge
 
 2024/9/25 solve problem and pass
+
+2024/9/25 gap encoding finished but a lot need to OPTIMIZE!!!!!
