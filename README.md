@@ -14,3 +14,5 @@ Exact commit time please refer to commit time
 2024/9/25 gap encoding finished but a lot need to OPTIMIZE!!!!!
 
 2024/9/26 TRY other encoding method
+
+2024/9/26 BASCIALLY finished BUT A LOT NEED TO OPT
